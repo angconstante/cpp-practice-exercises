@@ -1,13 +1,15 @@
-# cpp-practice-exercises
-Beginner C++ Exercises/Practice for Computer Science
-This repository contains coursework practice from Introdocution to C++ for the Computer Science degree that I am pursuing.
+# CS-Coursework
+This repository contains coursework, practices, 
+exercies and projects completed while 
+pursuing a degree in Computer Science.
 
-Topics included in these exercises:
--structs
--functions
--vectors
--arrays
--loops
--user input/output
--pointers
--conditional statements
+## Courses
+- Intro to C++
+- Intro to SQL and Relational Databases
+- Intro to Python
+
+## Languages
+- C++
+- SQL
+- Python
+
